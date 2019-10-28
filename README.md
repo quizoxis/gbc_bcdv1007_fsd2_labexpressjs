@@ -17,3 +17,4 @@
 * Added 1_express
 * Added 2_generator
 * Added 3_methods
+* Added 3_serving_files
