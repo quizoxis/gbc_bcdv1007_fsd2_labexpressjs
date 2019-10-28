@@ -16,3 +16,4 @@
 * Added 0_app
 * Added 1_express
 * Added 2_generator
+* Added 3_methods
